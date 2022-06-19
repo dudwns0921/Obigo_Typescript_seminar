@@ -1,0 +1,11 @@
+{
+  "name": "prac",
+  "version": "1.0.0",
+  "description": "Project for Typescript Seminar",
+  "scripts": {
+    "JSstart": "node index.js",
+    "TSstart": "node index.ts"
+  },
+  "author": "Jun",
+  "license": "ISC"
+}
