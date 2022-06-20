@@ -12,4 +12,4 @@
 //     return a + b;
 //   }
 //   var total = sum(10, 20);
-//   total --> 자동완성 기능 보여주기
+//   total --> 자동완성 불가 보여주기
